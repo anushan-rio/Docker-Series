@@ -1,0 +1,14 @@
+{
+  "name": "docker-conatiner-project",
+  "version": "1.0.0",
+  "description": "docker conatiner project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Anushan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
